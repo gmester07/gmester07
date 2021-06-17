@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @gmester07
+- 👀 I’m interested in programing in C#, C++, Java, JavaScript.
+- 🌱 I’m currently learning JavaScript web making.
